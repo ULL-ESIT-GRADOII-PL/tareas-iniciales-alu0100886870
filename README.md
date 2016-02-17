@@ -11,4 +11,4 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura de
 
 [Página personal de prácticas](http://alu0100886870.github.io/)
 
-[Página de la práctica inicial](http://alu0100886870.github.io/Tutorial-STW/)
+[Página de la práctica inicial](http://alu0100886870.github.io/tareas-iniciales-alu0100886870/)
