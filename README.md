@@ -1,6 +1,6 @@
 ## Tarea Inicial
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+Configuración de las herramientas y tecnologías a utilizar en la asignatura de Procesadores de Lenguajes
 
 * NodeJS
 * Express
